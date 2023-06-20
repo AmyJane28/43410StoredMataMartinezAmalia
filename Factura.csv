@@ -1,0 +1,16 @@
+NO_FOLIO,FECHA,ID_CLIENTE,ID_MASCOTA,ID_SERVICIO,DETALLE,PRECIO_UNITARIO,SUBTOTAL,IVA,TOTAL
+1,20230607,1,1,1,Vacuna Rabia,25,25,3,28
+2,20230601,2,2,1,Vacunas Bordetella,25,25,3,28
+3,20230528,3,3,1,Vacunas DA2PPV (4 en 1),25,25,3,28
+4,20230603,4,4,12,Peluquería Baño y recorte de pelo,30,30,4,34
+5,20230507,5,5,2,Citas médicas y de bienestar,25,25,3,28
+6,20230516,6,6,12,Peluquería Baño y recorte de pelo,30,30,4,34
+7,20230602,7,7,1,Vacunas DA2PPV (4 en 1),25,25,3,28
+8,20230602,8,8,12,Peluquería Baño y recorte de pelo,30,30,4,34
+9,20230603,9,9,2,Citas médicas y de bienestar,25,25,3,28
+10,20230603,10,10,1,Vacunas Baño y recorte de pelo,25,25,3,28
+11,20230529,11,11,12,Peluquería Baño y recorte de pelo,30,30,4,34
+12,20230530,12,12,12,Peluquería Baño y recorte de pelo,30,30,4,34
+13,20230522,13,13,12,Peluquería Baño y recorte de pelo,30,30,4,34
+14,20230530,14,14,1,Vacunas Bordetella,25,25,3,28
+15,20230527,15,15,1,Vacunas Rabia,25,25,3,28

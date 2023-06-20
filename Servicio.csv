@@ -1,0 +1,16 @@
+ID_SERVICIO,SERVICIO,DESCRIPCION,PRECIO
+1,Vacunas,Diferentes vacunas para felinos y caninos,25
+2,Citas médicas y de bienestar,Servicios veterinarios asequibles,25
+3,Examen médico,Examen médico,30
+4,Cremación comunitaria,"Servicio de eutanacia, no se devuelven las cenizas",160
+5,Cremación individual,"Servicio de eutanacia, se devuelven las cenizas después de una o dos semanas",220
+6,Esterilización Canina de 2 a 55 libras.,Esterilización Canina de 2 a 55 libras. Los precios incluyen analgésicos posquirúrgicos y los servicios están sujetos al examen veterinario,150
+7,Esterilización Canina de 56-100 libras.,Esterilización Canina de 56-100 libras. Los precios incluyen analgésicos posquirúrgicos y los servicios están sujetos al examen veterinario,200
+8,Castración Canino de 2 a 55 libras.,Castración Canino de 2 a 55 libras. Los precios incluyen analgésicos posquirúrgicos y los servicios están sujetos al examen veterinario,105
+9,Castración Canino de 56-100 libras,Castración Canino de 56-100 libras. Los precios incluyen analgésicos posquirúrgicos y los servicios están sujetos al examen veterinario,120
+10,Castración Felino.,Castración Felino. Los precios incluyen analgésicos posquirúrgicos y los servicios están sujetos al examen veterinario,65
+11,Esterilización Felina.,Esterilización Felina. Los precios incluyen analgésicos posquirúrgicos y los servicios están sujetos al examen veterinario,85
+12,Peluquería,"Servicio de peluquería canina y felina ofrece una amplia variedad de cortes de pelo y baños, tanto estéticos como terapéuticos",30
+13,Ecografía,"Ofrece información sobre el estado de los órganos internos de manera no invasiva, inmediata y precisa.",30
+14,Dermatología,Cuida la piel de la mascota,30
+15,Oftalmología,Cuida y revisa la visión de la mascota,30

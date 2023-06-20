@@ -1,0 +1,16 @@
+ID_MASCOTA,NOMBRE_MASCOTA,RAZA,SEXO_MASCOTA,COLOR,EDAD,TAMANO,PESO,PEDIGREE,CHIP,DESCRIPCIÓN,FECHA_DE_NACIMIENTO,ID_CLIENTE,PROPIETARIO
+1,Nala,Husky,F,Gris con blanco,12,60,20,FCMV0119-A,1400317401,Goza de buena salud,20220607,1,Juan Hernández Ortiz
+2,Kiara,Antiguo Pastor Ingles,F,Gris con blanco,5,61,12,FCMV0619-A,1400317402,Goza de buena salud,20230107,2,Ezequiel Ulloa Montes
+3,Lobo,Pasto Alemán,M,Negro con beige,3,65,4,FCMB0119-A,1400317403,Goza de buena salud,20230309,3,Laura Prima Gutiérrez
+4,Loba,Husky,F,Café con blanco,2,30,4,FCMV0179-A,1400317404,Goza de buena salud,20230418,4,Sofia Medrano Flores
+5,Terry,Labrador retriever,M,Negro  ,14,57,30,FCMV0719-B,1400317405,Goza de buena salud,20220419,5,Catalina Herrera Ulloa
+6,Jerry,Pomerania,M,Café  ,24,30,2,FCMG0189-C,1400317406,Goza de buena salud,20210607,6,Fidencio Flores Mata
+7,Firu,Golden retriever,M,Café  ,12,56,30,FCMV1119-A,1400317407,Goza de buena salud,20220607,7,Sonia Federico Blanco
+8,Zeke,Buldog francés,M,Negro  ,7,33,12,FCMV0969-A,1400317408,Goza de buena salud,20221107,8,Cristina Martínez Ávalos
+9,Dulce,Beagle,F,Café con blanco,6,33,8,FCMX0119-B,1400317409,Goza de buena salud,20230107,9,Luisa Hidrogo Alonso
+10,Blanquita,Labrador retriever,F,Beige,9,55,23,FCMV3119-C,1400317410,Goza de buena salud,20220910,10,Cristian Medellin Alto
+11,Gordo,Rottweiler,M,Negro  ,8,60,45,FCMX1109-A,1400317411,Goza de buena salud,20221009,11,Francisco Medrano Jaramillo
+12,Arya,Chihuahua,F,Blanco,10,15,2,FCMM3119-A,1400317412,Goza de buena salud,20220804,12,Gustavo Jaramillo Valencia
+13,Balto,San Bernardo,M,Café con blanco,11,75,80,FCMK0119-C,1400317413,Goza de buena salud,20220723,13,Valeria Villalobos Aldama
+14,Chocolate,Dálmata,M,Negro con blanco,13,60,25,FCMS0719-C,1400317414,Goza de buena salud,20220528,14,Adrián Alverde Rios
+15,Toronto,Bolder Collie,M,Negro con blanco,12,53,18,FCMW0119-A,1400317415,Goza de buena salud,20220607,15, Juana Villaseñor Cazares

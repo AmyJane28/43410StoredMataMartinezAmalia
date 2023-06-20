@@ -1,0 +1,10 @@
+ID_PERSONAL,NOMBRE_EMPLEADO ,APELLIDOS_EMPLEADO,DIRECCION,CIUDAD,ESTADO,CP,E_MAIL,TELEFONO,CARGO
+1,Ernesto,Rodriguez Alfaro,Calle Dr Jose Maria Coss 1205,Saltillo,Coahuila,44226,Ernesto@gmail.com,8446828242,Veterinario
+2,Guadalupe,Ordonez Calafia,Calle Emiliano Zapata 254,Saltillo,Coahuila,45100,Lupe@yahoo.com.mx,8448369227,Recepcionista
+3,Griselda,Martinez Meza,Calle Magisterio 457,Saltillo,Coahuila,44270,Gris@hotmail.com,8446324789,Estilista
+4,Juana Maria,Dolores Mundo,Calle Tres Culturas 567,Saltillo,Coahuila,22700,Maria@gmail.com,8446384512,Almacen
+5,Luz,Pena Gonzales,Calle Cuarta 894,Saltillo,Coahuila,44789,Luz@gmail.com,8442101223,Estilista
+6,Gonzalo,Gutierrez Solis,Calle Francisco Villa 524,Saltillo,Coahuila,44256,Gonza@yahoo.com,8446231558,Veterinario
+7,Martina,Maldonado Cazares,Calle Maclovio Herrera 908,Saltillo,Coahuila,44750,Martina@hotmail.com,8445178998,Cajero
+8,Rubi,Hidalgo Lujo,Calle Emiliano Zapata 800,Saltillo,Coahuila,45100,Rubi@hotmail.com,8446398754,Cajero
+9,Adrian ,Monte Luca,Calle Benito Juarez 100,Saltillo,Coahuila,26020,AdrianMo@hotmail.com,8447894545,Estilista
